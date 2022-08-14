@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253757726996",
+    "project_id": "bestapp-d507c",
+    "storage_bucket": "bestapp-d507c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253757726996:android:47060797e09d4fd1a96201",
+        "android_client_info": {
+          "package_name": "com.example.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253757726996-v61bbu34cpslvoot3emtqu9j1jf1tfns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.game",
+            "certificate_hash": "74f058f218aaaf7c34ce0d4109565b8e63b2a6ca"
+          }
+        },
+        {
+          "client_id": "253757726996-2u3v4rrln1mu1rbk5umd0s6amg4vaes7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAITCj6z_RaX0VqPQ8Nn9EzNeZSZHKg3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253757726996-2u3v4rrln1mu1rbk5umd0s6amg4vaes7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
