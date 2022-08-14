@@ -1,4 +1,4 @@
-# game
+# firebaseAuth
 
 A new Flutter project.
 
